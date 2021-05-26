@@ -28,7 +28,7 @@
 ##### Not working:
 - Fingerprint reader (It is better to DISABLE it from Bios)
 #### Motivation:
-This is my 5th Hackintosh built and i must say that this one is best of them . It took about a mounth and at some point (due to trackpad issue(Polling and Gpio pinning)) i want to quit it but Thanks to @Edio and @Waqas Umer for motivation and now everything work smoothly with great battery life. Performance is some how  on par with with 2019 MacBook Pro 13 inch . 
+This is my 5th Hackintosh built and i must say that this one is best of them . It took about a month and at some point (due to trackpad issue(Polling and Gpio pinning)) i want to quit it but Thanks to @Edio and @Waqas Umer for motivation and now everything work smoothly with great battery life. Performance is some how  on par with with 2019 MacBook Pro 13 inch . 
 
 # DISCLAIMER:
 1. This project started for educational purposes. 
