@@ -1,4 +1,4 @@
-# Lenovo Lenovo Thinkbook 15-IML (Big Sur 11.2.3 hackintosh)
+# Lenovo Thinkbook 15-IML (Big Sur 11.2.3 hackintosh)
 
 | Specifications | Details |
 |:-: |:-: |
