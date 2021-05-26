@@ -3,7 +3,7 @@
 | Specifications | Details |
 |:-: |:-: |
 | Processor | Intel Core i5-10210U  |
-| Memory | 12gb DDR4 2400MHz |
+| Memory | 4gb DDR4 2600MHz |
 | HDD | Samsung 860 EVO(250GB) |
 | Graphics Card | Intel UHD Graphics 630|
 | Monitor | 15.6 inch 1920x1080 |
