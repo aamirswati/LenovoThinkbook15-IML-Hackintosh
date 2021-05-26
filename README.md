@@ -1,5 +1,4 @@
 # Lenovo Thinkbook 15-IML (Big Sur 11.2.3 hackintosh)
-https://github.com/aamirswati/LenovoThinkbook15-IML-Hackintosh/blob/d64e2b977685dbf63661e18db975ad6a0b5157cc/Screen%20Shots/About.png
 
 | Specifications | Details |
 |:-: |:-: |
