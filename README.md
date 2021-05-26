@@ -43,5 +43,5 @@ Standing on the shoulders of giants! Based on the works of many great people.
 - [Daliansky's OC-little repo](https://github.com/daliansky/OC-little)
 - [alexandred/VoodooI2C Gitter](https://gitter.im/alexandred/VoodooI2C)
 
-The greatest thank you and appreciation to @Edio for helping me in trackpad fix.and to everyone who support me in completeing this project.
+The greatest thank you and appreciation to @Edio for helping me in trackpad fix.and to everyone who support me in completing this project.
 
